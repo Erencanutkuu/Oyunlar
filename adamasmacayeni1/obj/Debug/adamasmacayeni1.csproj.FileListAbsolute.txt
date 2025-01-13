@@ -1,0 +1,11 @@
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.csproj.AssemblyReference.cache
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.Properties.Resources.resources
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.csproj.GenerateResource.cache
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.csproj.CoreCompileInputs.cache
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.Form1.resources
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\bin\Debug\adamasmacayeni1.exe.config
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\bin\Debug\adamasmacayeni1.exe
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\bin\Debug\adamasmacayeni1.pdb
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.exe
+C:\Users\gs\source\repos\adamasmacayeni1\adamasmacayeni1\obj\Debug\adamasmacayeni1.pdb
